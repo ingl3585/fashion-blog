@@ -29,4 +29,4 @@ None assigned at this time
 2. Under the GENERAL section write your answer to the following interview question: 
    - **What types of work environments do you work best in??**.
 3. All answers must be at least a paragraph in length however the more you write the more you have to talk about.
-4. Add a link to the following [spreadheet](https://docs.google.com/spreadsheets/d/1S9-poFULhpext3xjNmuU1g-raZGKkFrODEACrIRFLi0/edit#gid=0) to your shared google doc.
+4. If you haven't already done so, add a link to the following [spreadheet](https://docs.google.com/spreadsheets/d/1S9-poFULhpext3xjNmuU1g-raZGKkFrODEACrIRFLi0/edit#gid=0) to your shared google doc.
