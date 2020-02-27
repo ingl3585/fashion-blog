@@ -14,7 +14,7 @@
 4. Watch: [Flexbox vs Grid](https://cssgrid.io/) - Note: you must first sign up for a free account
 
 
-Bonus:
+**Bonus:**
 2. Watch: [The Art Of Learning](https://www.youtube.com/watch?v=qS5Q5KPU_No)
 
 
