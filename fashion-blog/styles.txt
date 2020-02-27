@@ -2,11 +2,11 @@ Complete the fashion blog from the attached screenshot. Take a look at the copy.
 
 Images:
 
-http://res.cloudinary.com/jkeohan/image/upload/v1509651165/fashion_photo2_t6ykqr.jpg
+https://res.cloudinary.com/jkeohan/image/upload/v1509651165/fashion_photo.jpg
 
-http://res.cloudinary.com/jkeohan/image/upload/v1509651165/fashion_photo_htjbcn.jpg
+https://res.cloudinary.com/jkeohan/image/upload/v1509651165/fashion_photo2.jpg
 
-http://res.cloudinary.com/jkeohan/image/upload/v1509651165/ad_xstsam.gif
+https://res.cloudinary.com/jkeohan/image/upload/v1509651165/ad.gif
 
 Wrapper 
     width: 1080px
