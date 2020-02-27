@@ -4,7 +4,7 @@
 
 ### 1.Instagram Quotes - EST TIME: 1hr
 
-1. Go to [Fashion Blog](fashion-blog/README.md)
+1. Go to [Fashion Blog](./fashion-blog/)
 2. Follow the instructions in that repo
 
 
