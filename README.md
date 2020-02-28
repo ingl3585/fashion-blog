@@ -23,7 +23,7 @@
 None assigned at this time
 
 
-### 4.  INTERVIEW PRACTICE - EST TIME: 20min - NOTE: Added A New Question
+### 4.  INTERVIEW PRACTICE - EST TIME: 20min 
 
 1.  Make a copy of the following [Google Doc of Interview Questions](https://docs.google.com/document/d/1OWT-tXtIefyneMk6hk3s-gz4wyQx21NapFQ0xfq9JvI/edit?usp=sharing).
 2. Under the GENERAL section write your answer to the following interview question: 
