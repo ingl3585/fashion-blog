@@ -8,13 +8,13 @@
 
 ### 2. Read/Watch The Following - EST TIME: 20min
 
-1. Do: [Grid Garden](https://cssgridgarden.com/)
-4. Watch: [Flexbox vs Grid](https://cssgrid.io/) - Note: you must first sign up for a free account
+- Do: [Grid Garden](https://cssgridgarden.com/)
+- Watch: [Flexbox vs Grid](https://cssgrid.io/) - Note: you must first sign up for a free account
 
 
 **Bonus:**
 
-2. Watch: [The Art Of Learning](https://www.youtube.com/watch?v=qS5Q5KPU_No)
+- Watch: [The Art Of Learning](https://www.youtube.com/watch?v=qS5Q5KPU_No)
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
