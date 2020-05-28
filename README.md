@@ -1,6 +1,6 @@
 ## Command Line / Interview Questions
 
-### 1.Instagram Quotes - EST TIME: 1hr
+### 1.Fashion Blog - EST TIME: 1hr
 
 1. Go to [Fashion Blog](./fashion-blog/)
 2. Follow the instructions in that repo
