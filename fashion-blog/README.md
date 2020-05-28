@@ -12,13 +12,16 @@
 
 ## Instructions
 
-You ***must*** fork and clone this repo since you do not have the rights to make changes. Once forked, and cloned to your own computer:
+You can either: 
+
+1. Submit this homework as a Codepen (create all of your code in codepen and submit that link to the google form)
+
+2. Fork and clone this repo since you do not have the rights to make changes. Once forked, and cloned to your own computer:
 
 1. Change into the new directory
 2. Recreate the startup website as the starter image shows [here](./Design.png)
 
-When you have fulfilled the requirements below, make a pull request on this
-repository to turn in your work.
+When you have fulfilled the requirements below submit your homework to this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSezWVG8OLr6ZxmRNOwZ6xsoYO5lu_7L1LTWA3X6iclG4iG_Hw/viewform)
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 10:00am.
