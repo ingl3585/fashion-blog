@@ -15,7 +15,7 @@
 
 **Bonus:**
 
-- Watch: [The Art Of Learning](https://www.youtube.com/watch?v=qS5Q5KPU_No)
+- Read: [Flexbox vs CSS Grid](https://tutorialzine.com/2017/03/css-grid-vs-flexbox)
 
 
 ### 3. ALGO PRACTICE - EST TIME: 20min
