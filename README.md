@@ -1,6 +1,6 @@
 ## Homework
 
-### 1.Fashion Blog - EST TIME: 1hr
+### 1.Fashion Blog - EST TIME: 2hr
 
 1. Go to [Fashion Blog](./fashion-blog/)
 2. Follow the instructions in that repo
