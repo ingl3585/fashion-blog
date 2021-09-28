@@ -26,7 +26,7 @@ the next morning by 10:00am.
 ## Requirements
 
 1. You must work with the `index.html` and `css/main.css` files. 
-2. **Do not** move the any images out of the `img` folder.
+2. **Do not** move any images out of the `img` folder.
 3. Recreate the design provided using Flexbox, css grid or both.
 4. Use the text provided in copy.txt for the filler text on your fashion blog site
 
