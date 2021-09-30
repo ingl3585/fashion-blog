@@ -9,7 +9,6 @@
 
 .page-container {
     display: grid;
-    grid-template-rows: 20% 60% 20%
     gap: 10px;
     padding: 40px 60px;
 }
@@ -68,8 +67,8 @@ header h2 {
 }
 
 .brooklyn {
-    padding: 30px;
-    margin: 20px;
+    padding: 0 30px 30px 0;
+    margin: 10px;
 }
 
 .date {
@@ -83,6 +82,7 @@ header h2 {
 
 .brooklyn p {
     color:#514444;
+    padding-top: 10px;
 }
 
 .brooklyn a {
@@ -96,13 +96,18 @@ header h2 {
 }
 
 .vogue {
-    padding: 30px;
-    margin: 20px;
+    padding: 0 30px 30px 0;
+    margin: 10px;
 }
 
 .vogue h2 {
     font-size: 30px;
     margin-top: -40px;
+}
+
+.vogue p {
+    color:#514444;
+    padding-top: 10px;
 }
 
 .vogue a {
@@ -144,10 +149,10 @@ header h2 {
 }
 
 .bottom-nav {
-    padding: 30px;
+    padding: 20px 30px 30px 0;
     width: 74.5%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     align-items: center;
     list-style-type: none;
 }
@@ -155,6 +160,16 @@ header h2 {
 .bottom-nav a {
     color: red;
     text-decoration: none;
+}
+
+.bottom-nav li {
+    border-right: 0.5px solid #BABCD4;
+    padding: 0px 5px;
+    margin: 0;
+}
+
+.bottom-nav li:last-of-type {
+    border: none;
 }
 
 hr {
