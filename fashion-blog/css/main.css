@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 2;
+}
+
+.page-container {
+    display: grid;
+    grid-template-rows: 20% 60% 20%
+    gap: 10px;
+    padding: 40px 60px;
+}
+
+header {
+    display: block;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 10px;
+}
+
+.sections {
+    grid-column: 1/2;
+    grid-row: 2/3; 
+}
+
+.asides {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+h1, h2, p, a {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+header h1 {
+    display: inline;
+    color: red;
+    font-size: 40px;
+}
+
+header h2 {
+    display: inline;
+    color: gray;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+.top-nav {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+    font-size: 25px;
+    background-color: black;
+}
+
+.top-nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.brooklyn {
+    padding: 30px;
+    margin: 20px;
+}
+
+.date {
+    color: #CCCCCE;
+}
+
+.brooklyn h2 {
+    font-size: 30px;
+    margin-top: -40px;
+}
+
+.brooklyn p {
+    color:#514444;
+}
+
+.brooklyn a {
+    float: right;
+    text-decoration: none;
+    color: red;
+}
+
+.fashion-photo1 {
+    width: 100%;
+}
+
+.vogue {
+    padding: 30px;
+    margin: 20px;
+}
+
+.vogue h2 {
+    font-size: 30px;
+    margin-top: -40px;
+}
+
+.vogue a {
+    float: right;
+    text-decoration: none;
+    color: red;
+}
+
+.fashion-photo2 {
+    width: 100%;
+}
+
+.about-us {
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about-us a {
+    float: right;
+    color: red;
+    text-decoration: none;
+}
+
+.ad-gif {
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.popular-posts {
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.popular-links a {
+    color: red;
+    text-decoration: none;
+}
+
+.bottom-nav {
+    padding: 30px;
+    width: 74.5%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+}
+
+.bottom-nav a {
+    color: red;
+    text-decoration: none;
+}
+
+hr {
+    border: 0.25px solid #DDDDDD;
+}
